@@ -1,0 +1,9 @@
+@import "fonts";
+@import "variables";
+
+.works {
+  .card:nth-child(2),
+  .card:nth-child(4) {
+    background-color: $gray3;
+  }
+}

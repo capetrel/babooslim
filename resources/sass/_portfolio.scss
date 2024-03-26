@@ -1,0 +1,22 @@
+.portfolios {
+  padding: $space1 0;
+  .item {
+    display: flex;
+    padding: $space1 0;
+    .item-image {
+      margin-right: $space1;
+    }
+    .item-body{
+      h3 {
+        margin: 0 0 $space1 0;
+      }
+      .tag {
+        margin: 0 0 ($space1 - 10) 0;
+        font-size: $size1 - 2;
+      }
+      a {
+        text-decoration: underline;
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+@font-face{
+  font-family:"LibreFranklin";
+  src: url('../fonts/LibreFranklin.ttf') format('ttf supports variations'),
+    url('../fonts/LibreFranklin.ttf') format('ttf-variations');
+  font-weight: 100 1000;
+  font-stretch: 25% 151%;
+}
+
+@font-face {
+  font-family: "LibreFranklin Ital";
+  src: url('../fonts/LibreFranklin-Italic.ttf') format('ttf supports variations'),
+  url('../fonts/LibreFranklin-Italic.ttf') format('ttf-variations');
+  font-weight: 100 1000;
+  font-stretch: 25% 151%;
+}

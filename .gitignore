@@ -1,0 +1,7 @@
+.idea/
+/cache/*
+!cache/.gitkeep
+/node_modules/
+/public/assets
+/vendor/
+.env

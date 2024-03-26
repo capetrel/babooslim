@@ -1,0 +1,7 @@
+# Redirige le trafic vers le dossier public (simule le document_root du vhost)
+# La règle est basique et peu ne pas fonctinner partout préférer modifier le vhost
+# <IfModule mod_rewrite.c>
+#     RewriteEngine on
+#     RewriteCond %{REQUEST_URI} !^public
+#     RewriteRule ^(.*)$ public/$1 [L]
+# </IfModule>

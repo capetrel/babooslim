@@ -1,0 +1,36 @@
+---
+title: Mentions légales
+header_title: |
+  Comment sont gérée
+  Vos données
+---
+
+## Titre 2
+
+Nullam augue lectus, **egestas vel lectus blandit**, condimentum placerat diam. In nec molestie felis. Etiam at vulputate urna. Pellentesque mattis, libero a vehicula rutrum, elit felis sagittis risus, non porttitor felis nisl a nisi. Sed eu semper velit. Aenean vel quam aliquam, bibendum magna nec, vulputate ipsum. Nulla et vulputate lectus, in consequat nisl. In et augue eget ex volutpat commodo a quis ligula. Sed ac velit a tellus tincidunt rhoncus quis in dolor.
+
+### titre 3
+Quisque sit amet metus massa. Vivamus id nisi _CONSECTUR_, ultricies metus ac, lobortis nunc. Pellentesque semper tincidunt elit, quis blandit tellus bibendum placerat. Sed gravida quam et justo volutpat tristique. Vivamus maximus odio nec commodo accumsan. Proin nibh purus, porttitor ut felis a, posuere vulputate augue
+
+#### titre 4
+Vivamus eu tincidunt dui. Mauris molestie leo turpis, in pretium velit porttitor in. Quisque semper volutpat ultrices. Praesent eu leo id enim faucibus laoreet. Cras nisi neque, sodales nec lorem nec, efficitur fringilla quam.
+1. Vestibulum vehicula, metus nec convallis fermentum.
+2. justo mi pharetra nunc.
+3. u viverra nulla orci at est.
+In hac habitasse platea dictumst. Donec eget lacinia sem. Praesent magna ex, gravida a pharetra quis, faucibus nec massa. Praesent nisl leo, condimentum et velit at, consequat eleifend ipsum. Donec ac sapien turpis. Duis a mi orci. Maecenas luctus non eros gravida vulputate. Donec malesuada odio et quam pulvinar laoreet.
+
+## Titre 2
+Nullam augue lectus, **egestas vel lectus blandit**, condimentum placerat diam. In nec molestie felis. Etiam at vulputate urna. Pellentesque mattis, libero a vehicula rutrum, elit felis sagittis risus, non porttitor felis nisl a nisi. Sed eu semper velit. Aenean vel quam aliquam, bibendum magna nec, vulputate ipsum. Nulla et vulputate lectus, in consequat nisl. In et augue eget ex volutpat commodo a quis ligula. Sed ac velit a tellus tincidunt rhoncus quis in dolor.[I'm an inline-style link with title](https://www.google.com "Google's Homepage").
+
+
+## Exemple inclure image
+Inline-style:
+  ![alt text](/img/img.png "Fausse image")
+Nullam augue lectus, **egestas vel lectus blandit**, condimentum placerat diam. In nec molestie felis. Etiam at vulputate urna. Pellentesque mattis, libero a vehicula rutrum, elit felis sagittis risus, non porttitor felis nisl a nisi. Sed eu semper velit. Aenean vel quam aliquam, bibendum magna nec, vulputate ipsum. Nulla et vulputate lectus, in consequat nisl. In et augue eget ex volutpat commodo a quis ligula. Sed ac velit a tellus tincidunt rhoncus quis in dolor.[I'm an inline-style link with title](https://www.google.com "Google's Homepage").
+
+## Exmple de tableau
+  | Tables        | Are           | Cool  |
+  | ------------- |:-------------:| -----:|
+  | col 3 is      | right-aligned | $1600 |
+  | col 2 is      | centered      |   $12 |
+  | zebra stripes | are neat      |    $1 |

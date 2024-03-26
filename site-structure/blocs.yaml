@@ -1,0 +1,11 @@
+---
+blocs:
+  bloc_footer:
+    Bloc Gauche:
+      title: Titre de bloc
+      content: Exemple d'élément de structure commun à toutes les pages.
+  bloc_1:
+    Bloc 1:
+      title: Bloc 1
+      content: Bloc de test.
+---

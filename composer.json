@@ -1,0 +1,30 @@
+{
+    "name": "capetrel/bddless-site",
+    "description": "site with yaml file instead of database",
+    "authors": [
+        {
+            "name": "capetrel",
+            "email": "capetrelluzzi@efil.fr"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app"
+        }
+    },
+    "require": {
+        "php": "^8.1",
+        "webuni/front-matter": "^1.2",
+        "cebe/markdown": "^1.2",
+        "jenssegers/blade": "^2",
+        "vlucas/phpdotenv": "^5.3",
+        "slim/slim": "^4.7",
+        "guzzlehttp/psr7": "^1.7",
+        "http-interop/http-factory-guzzle": "^1.0",
+        "slim/flash": "^0.4.0",
+        "slim/psr7": "^1.5"
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^5.2"
+    }
+}

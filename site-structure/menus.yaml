@@ -1,0 +1,47 @@
+---
+menus:
+  menu_header:
+    Accueil:
+      link: /
+      target: _self
+      title: Voir la page
+
+    Clients:
+      link: /clients
+      submenu:
+        Client 1:
+          link: /clients/client-1
+          target: _self
+          title: Voir la page
+
+    Portfolio:
+      link: /portfolios
+      target: _self
+      title: Voir la page
+
+    Contact:
+      link: /contact
+      target: _self
+      title: Voir la page
+
+    A propos:
+      link: /a-propos
+      target: _self
+      title: Voir la page
+
+  menu_footer:
+    Efil:
+      link: https://www.efil.fr
+      target: _blank
+      title: Aller vers le site
+
+    Mentions Légales:
+      link: /mentions-legales
+      target: _self
+      title: Voir la page
+
+    Plan du site:
+      link: /sitemap
+      target: _self
+      title: Voir la page
+---

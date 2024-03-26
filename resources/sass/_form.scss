@@ -1,0 +1,18 @@
+.form-group {
+  display: flex;
+  flex-direction: column;
+  margin: $space1 0;
+  label {
+    color: $text;
+    margin-bottom: $space1 - 15px;
+  }
+  input {
+    border: 1px solid $gray3;
+    padding: $space1 - 10;
+  }
+  &.has-danger {
+    .text-muted {
+      color: $error;
+    }
+  }
+}
